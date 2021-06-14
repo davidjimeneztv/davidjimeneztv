@@ -1,11 +1,63 @@
 # Hola👋, soy David Jiménez
-
-🌥 intentando no suspender...
-
-😌 Desarrollando BROCAL DF06 - Panel Privado
-😏 Desarrollando CyberGames - Servidor de Minecraft
-👌 Desarrollando CyberGames - Official Website
-
---
+🙍‍♂️Me llamo David Jiménez, actual estudiante en Andalucía, España.
 
 
+Me gusta aprender día a día sobre cosas nuevas.
+
+
+Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, hosting, dominios, marketing, SEO, YouTubers/Streamers, etc.
+
+# ✔ Desarrollando desde los 11 años :)
+
+✌Con 11 años desarrollé mi primera web en HTML con CSS y Javascript con Firebase.
+
+
+😏Con 11 años comencé en el mundo de los CMS con Webnode y poco a poco fuí aprendiendo sobre Wix y Wordpress (actual cms)
+
+
+😊Con 11'5 años desarrollé mi segunda web en HTML, CSS, Javascript, PHP y MySQL
+
+
+🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace y actualmente Wordpress.
+
+
+😉He desarrollado un sistema de empleados en PHP para una oficina de CaixaBank, con plugins de exportación de datos para subirlo al sitio web oficial de CaixaBank.
+
+
+🤞He desarrollado en 2019 un sistema de inventario y ventas en PHP para un negocio familiar.
+
+
+🤗En 2011 desarrollé con Wordpress un sitio web para Alöelí (Empresa de Aloe Vera en Amsterdam)
+
+
+👨‍🏫Hice un proyecto escolar en 2021 con un portal para alumnos con horarios de clases, mensajeria con php, estilos CSS y cuerpo de la web con HTML.
+
+
+📶Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode.
+
+
+👨‍🏫Estoy desarrollando actualmente un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
+
+
+🔮Y pensando en el futuro, estoy pensando en desarrollar juegos con HTML5 de código abierto.
+
+
+
+©2021 - - DAVID JIMÉNEZ TV -- 
+
+
+😎Discord : DavidJiménez#2021
+
+📨Email : davidjimeneztv@grupopalddd.tk
+
+
+👨‍🏫LEARNAPP : http://app.learnapp.cf
+
+
+📶Brocal DF06 : https://familiajimenez.tk // https://df06.webnode.es
+
+
+🌼Alöelí : http://aloelí.nl
+
+
+🔐El resto de sitios web son confidenciales :/

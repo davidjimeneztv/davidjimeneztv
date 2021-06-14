@@ -51,6 +51,9 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 📨Email : davidjimeneztv@grupopalddd.tk
 
 
+📶Instagram : @davidjj07 // https://instagram.com/davidjj07
+
+
 👨‍🏫LEARNAPP : http://app.learnapp.cf
 
 

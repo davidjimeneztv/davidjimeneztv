@@ -43,6 +43,13 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 
 
 
+# 👨‍🏫 Certificados obtenidos recientemente
+
+Curso de Desarrollo Web I - Google Actívate (ID del Certificado : EJM WEL PE7) Link de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
+
+
+#
+
 ©2021 - - DAVID JIMÉNEZ TV -- 
 
 

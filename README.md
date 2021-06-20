@@ -39,9 +39,10 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 👨‍🏫Estoy desarrollando actualmente un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
 
 
+📎 He aprendido a vincular "Discord Rich Presence" con Javascript a Sitios web y Aplicaciones de Escritorio.
+
+
 🔮Y pensando en el futuro, estoy pensando en desarrollar juegos con HTML5 de código abierto.
-
-
 
 # 👨‍🏫 Certificados obtenidos recientemente
 

@@ -48,6 +48,12 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 Curso de Desarrollo Web I - Google Actívate (ID del Certificado : EJM WEL PE7) Link de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
 
 
+Curso de Ciberseguridad en el Teletrabajo - Google Activate (ID del certificado : UT6 B92 NEV) Link de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
+
+
+Curso de Digitalización de negocio con Google My Business y YouTube - Google Activate (ID del certificado : GBE 6ZV SBK) Link de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
+
+
 #
 
 ©2021 - - DAVID JIMÉNEZ TV -- 

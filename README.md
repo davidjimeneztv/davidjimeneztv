@@ -55,6 +55,8 @@ Curso de Ciberseguridad en el Teletrabajo - Google Activate (ID del certificado 
 Curso de Digitalización de negocio con Google My Business y YouTube - Google Activate (ID del certificado : GBE 6ZV SBK) Link de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
 
 
+Curso de Comercio Electrónic - Google Activate (ID del certificado  : KC8 KBE NCF )  Enlace de autenticidad : https://learndigital.withgoogle.com/link/1nur091p2ww
+
 #
 
 ©2021 - - DAVID JIMÉNEZ TV -- 

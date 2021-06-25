@@ -70,6 +70,9 @@ Curso de Comercio Electrónico - Google Activate (ID del certificado  : KC8 KBE 
 📶Instagram : @davidjj07 // https://instagram.com/davidjj07
 
 
+🤗 EvaluApp : https://evaluapp.grupopalddd.tk
+
+
 👨‍🏫LEARNAPP : http://app.learnapp.cf
 
 

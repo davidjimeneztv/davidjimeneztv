@@ -73,9 +73,6 @@ Curso de Comercio Electrónico - Google Activate (ID del certificado  : KC8 KBE 
 👨‍🏫LEARNAPP : http://app.learnapp.cf
 
 
-📶Brocal DF06 : https://familiajimenez.tk // https://df06.webnode.es
-
-
 🌼Alöelí : http://aloelí.nl
 
 

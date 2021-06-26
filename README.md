@@ -21,10 +21,10 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace y actualmente Wordpress.
 
 
-😉He desarrollado un sistema de empleados en PHP para una oficina de CaixaBank, con plugins de exportación de datos para subirlo al sitio web oficial de CaixaBank.
+😉He desarrollado un sistema de empleados en PHP para una oficina de CaixaBank, con plugins de exportación de datos para subirlo al sitio web oficial de Empleados CaixaBank.
 
 
-🤞He desarrollado en 2019 un sistema de inventario y ventas en PHP para un negocio familiar.
+🤞En 2019 desarrollé un sistema de inventario y ventas en PHP para un negocio familiar.
 
 
 🤗En 2011 desarrollé con Wordpress un sitio web para Alöelí (Empresa de Aloe Vera en Amsterdam)

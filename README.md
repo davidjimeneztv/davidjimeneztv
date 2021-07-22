@@ -21,22 +21,19 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace y actualmente Wordpress.
 
 
-😉He desarrollado un sistema de empleados en PHP para una oficina de CaixaBank, con plugins de exportación de datos para subirlo al sitio web oficial de Empleados CaixaBank.
-
-
 🤞En 2019 desarrollé un sistema de inventario y ventas en PHP para un negocio familiar.
 
 
-🤗En 2011 desarrollé con Wordpress un sitio web para Alöelí (Empresa de Aloe Vera en Amsterdam)
+🤗En 2019 desarrollé con Webnode un sitio web para Alöelí (Empresa de Aloe Vera en Amsterdam)
 
 
 👨‍🏫Hice un proyecto escolar en 2021 con un portal para alumnos con horarios de clases, mensajeria con php, estilos CSS y cuerpo de la web con HTML.
 
 
-📶Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode.
+📶Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode. (Acceso Privado)
 
 
-👨‍🏫Estoy desarrollando actualmente un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
+👨‍🏫He desarrollado en 22021 un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
 
 
 📎 He aprendido a vincular "Discord Rich Presence" con Javascript a Sitios web y Aplicaciones de Escritorio.
@@ -68,12 +65,6 @@ Curso de Comercio Electrónico - Google Activate (ID del certificado  : KC8 KBE 
 
 
 📶Instagram : @davidjj07 // https://instagram.com/davidjj07
-
-
-🤗 EvaluApp : https://evaluapp.grupopalddd.tk
-
-
-👨‍🏫LEARNAPP : http://app.learnapp.cf
 
 
 🌼Alöelí : http://aloelí.nl

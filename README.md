@@ -39,6 +39,9 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 📎 He aprendido a vincular "Discord Rich Presence" con Javascript a Sitios web y Aplicaciones de Escritorio.
 
 
+🅰️ Actualmente estoy administrando un proyecto propio llamado VeriCMS, con 3 interfaces, una para descarga de contenido y las otras dos, son para la gestión y administración de paneles de alarmas Verisure Fast.
+
+
 🔮Y pensando en el futuro, estoy pensando en desarrollar juegos con HTML5 de código abierto.
 
 # 👨‍🏫 Certificados obtenidos recientemente

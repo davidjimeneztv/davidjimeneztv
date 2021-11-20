@@ -15,7 +15,7 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 😏Con 11 años comencé en el mundo de los CMS con Webnode y poco a poco fuí aprendiendo sobre Wix y Wordpress (actual cms)
 
 
-😊Con 11'5 años desarrollé mi segunda web en HTML, CSS, Javascript, PHP y MySQL
+😊Con 11 años desarrollé mi segunda web en HTML, CSS, Javascript, PHP y MySQL
 
 
 🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace y actualmente Wordpress.
@@ -33,7 +33,7 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 📶Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode. (Acceso Privado)
 
 
-👨‍🏫He desarrollado en 22021 un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
+👨‍🏫He desarrollado en 2021 un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
 
 
 📎 He aprendido a vincular "Discord Rich Presence" con Javascript a Sitios web y Aplicaciones de Escritorio.

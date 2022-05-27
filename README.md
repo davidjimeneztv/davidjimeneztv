@@ -5,44 +5,53 @@
 Me gusta aprender día a día sobre cosas nuevas.
 
 
-Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, hosting, dominios, marketing, SEO, YouTubers/Streamers, etc.
+Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, servidores, etc.
 
 # ✔ Desarrollando desde los 11 años :)
 
-✌Con 11 años desarrollé mi primera web en HTML con CSS y Javascript con Firebase.
+✌ Con 11 años cree mi primer sitio web con Webnode (CMS).
 
 
-😏Con 11 años comencé en el mundo de los CMS con Webnode y poco a poco fuí aprendiendo sobre Wix y Wordpress (actual cms)
+😏 Durante un par de años me dediqué exclusivamente al CMS de Webnode creando sitios webs para empresas cómo "Alöelí" (empresa de Aloe Vera en Amsterdam)
 
 
-😊Con 11 años desarrollé mi segunda web en HTML, CSS, Javascript, PHP y MySQL
+😊 Con 11 años comencé a acceder al mundo del HTML, PHP, CSS, JS y MySQL usando un servidor APACHE.
 
 
-🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace y actualmente Wordpress.
+🌥 He usado los hostings de : Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, Atspace, WordPress, ACENS, Amazon AWS y Servidores VPS propios.
 
 
-🤞En 2019 desarrollé un sistema de inventario y ventas en PHP para un negocio familiar.
+🤞 En 2019 desarrollé un sistema de inventario y ventas en PHP para un negocio familiar permitiendo el registro de productos, ventas, logística y gestión de stock con TPV integrado para permitir las ventas en tienda de manera rápida.
 
 
-🤗En 2019 desarrollé con Webnode un sitio web para Alöelí (Empresa de Aloe Vera en Amsterdam)
+👨‍🏫 Actualmente me estoy dedicando a agregar nuevas funcionalidades y a prestar soporte a mi aplicación web "Evaluapp", un completo sistema para colegios e instituciones educativas desarrollado en PHP con MySQL permitiendo el acceso con roles de Alumno, Tutor Legal, Profesor, Administrador y próximamente Jefe de Estudios y Dirección.
+
+📶 Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode que permite gestionar las redes wifi, dispositivos DLNA y con S.O. que permitan el filtro de tiempo de pantalla, además, permitiendo el acceso a los ficheros de los dispositivos DLNA y FTP del hogar con el acceso ROOT de lectura abierto sin contraseña. (Acceso Privado)
 
 
-👨‍🏫Hice un proyecto escolar en 2021 con un portal para alumnos con horarios de clases, mensajeria con php, estilos CSS y cuerpo de la web con HTML.
+👨‍🏫 En 2021 me centré en desarrollar un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos centrados para estudiantes.
 
 
-📶Actualmente estoy mejorando día a día mi beta de "Brocal DF06", un portal de gestión de redes LAN desde el frontend de un sitio web creado con Webnode. (Acceso Privado)
+📎 Tengo los conocimientos suficientes para vincular "Discord Rich Presence" con aplicaciones de escritorio para Windows y Linux.
 
 
-👨‍🏫He desarrollado en 2021 un sitio web llamado "LearnApp" con Wordpress con el objetivo de generar una comunidad de alumnos de hablahispana con foros colaborativos.
-
-
-📎 He aprendido a vincular "Discord Rich Presence" con Javascript a Sitios web y Aplicaciones de Escritorio.
-
-
-🅰️ Actualmente estoy administrando un proyecto propio llamado VeriCMS, con 3 interfaces, una para descarga de contenido y las otras dos, son para la gestión y administración de paneles de alarmas Verisure Fast.
+🅰️ (Sitio web en mantenimiento) Actualmente he estado administrando un proyecto llamado "VeriCMS" desarrollado en PHP, ASPX y Python con varias interfaces de control desde el mismo servidor y dominio, permmitiendo desde la primera interfaz sin ser requerida ninguna credencial (ajustable) la descarga de contenidos públicados por usuarios con acceso al Panel de Control, desde la segunda interfaz, un complejo sistema en fase beta de control y supervisin de la comunicacin de sistemas FAST de Verisure enviando ordenes por SMS, además cuenta con dos interfaces de administrador desde las cuales se puede editar el contenid publicado y desde la segunda, se puede gestionar los usuarios activos (Usuarios y Usuarios Invitados) para el control de alarmas.
 
 
 🔮Y pensando en el futuro, estoy pensando en desarrollar juegos con HTML5 de código abierto.
+
+
+# 🫣 Mi carrera cómo Moderador 
+
+
+🥸 Durante 6 meses estuve encargado de la administración y configuración del servidor de Minecraft del canal de YouTube CyberGames estando encargado de la gestión de tickets, reportes, sugerencias, y la configuración de plugins de este servidor así cómo del Servidor de Discord y del foro de tickets.
+
+
+🤠 Durante 3 meses estuve siendo moderador en el antiguo canal de Twitch de un streamer con 8138 seguidores y 1.08M en YouTube (Dejó de hacer streams y perdí el contacto con el por lo que no le he podido preguntar si me daba autorización a mencionarle aquí)
+
+
+💘 Durante 5 meses (en pausa temp.) he estado gestionando la comunidad de Discord de gran parte de mis suscriptores de YT además del servidor de Minecraft en el que participó parte de la comunidad usando el modpack creado por mí en exclusiva para este servidor (+70 mods, +1970 líneas de config) gestionando tickets, reportes, sugerencias tanto de Discord cómo del servidor de Minecraft. Acompañado de @LuisCaro (Administrador y desarrollador de Mods en MC), "Óscar Alarms" (YouTuber), "Elvosso" (Desarrollador Roblox) y "Pedro Batanero" (Soporte/Helper).
+
 
 # 👨‍🏫 Certificados obtenidos recientemente
 
@@ -59,18 +68,15 @@ Curso de Comercio Electrónico - Google Activate (ID del certificado  : KC8 KBE 
 
 #
 
-©2021 - - DAVID JIMÉNEZ TV -- 
+©2022 - - DAVID JIMÉNEZ TV -- 
 
 
-😎Discord : DavidJiménez#2021
+😎 Discord : David Jiménez#9974
 
-📨Email : davidjimeneztv@grupopalddd.tk
-
-
-📶Instagram : @davidjj07 // https://instagram.com/davidjj07
+📨 Email : david@vericms.cf
 
 
-🌼Alöelí : http://aloelí.nl
+📶 Instagram : @davidjj07 // https://instagram.com/davidjj07
 
 
-🔐El resto de sitios web son confidenciales :/
+🌼 Alöelí : http://aloelí.nl

@@ -35,7 +35,7 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 📎 Tengo los conocimientos suficientes para vincular "Discord Rich Presence" con aplicaciones de escritorio para Windows y Linux.
 
 
-🅰️ (Sitio web en mantenimiento) Actualmente he estado administrando un proyecto llamado "VeriCMS" desarrollado en PHP, ASPX y Python con varias interfaces de control desde el mismo servidor y dominio, permmitiendo desde la primera interfaz sin ser requerida ninguna credencial (ajustable) la descarga de contenidos públicados por usuarios con acceso al Panel de Control, desde la segunda interfaz, un complejo sistema en fase beta de control y supervisin de la comunicacin de sistemas FAST de Verisure enviando ordenes por SMS, además cuenta con dos interfaces de administrador desde las cuales se puede editar el contenid publicado y desde la segunda, se puede gestionar los usuarios activos (Usuarios y Usuarios Invitados) para el control de alarmas.
+🅰️ (Sitio web en mantenimiento) Actualmente he estado administrando un proyecto llamado "VeriCMS" desarrollado en PHP, ASPX y Python con varias interfaces de control desde el mismo servidor y dominio, permmitiendo desde la primera interfaz sin ser requerida ninguna credencial (ajustable) la descarga de contenidos públicados por usuarios con acceso al Panel de Control, desde la segunda interfaz, un complejo sistema en fase beta de control y supervisión de la comunicación de sistemas FAST de Verisure enviando ordenes por SMS, además cuenta con dos interfaces de administrador desde las cuales se puede editar el contenido publicado y desde la segunda, se puede gestionar los usuarios activos (Usuarios y Usuarios Invitados) para el control de alarmas.
 
 
 🔮Y pensando en el futuro, estoy pensando en desarrollar juegos con HTML5 de código abierto.
@@ -50,7 +50,7 @@ Mis intereses son muy amplios, me encanta el mundo de las alarmas, sitios webs, 
 🤠 Durante 3 meses estuve siendo moderador en el antiguo canal de Twitch de un streamer con 8138 seguidores y 1.08M en YouTube (Dejó de hacer streams y perdí el contacto con el por lo que no le he podido preguntar si me daba autorización a mencionarle aquí)
 
 
-💘 Durante 5 meses (en pausa temp.) he estado gestionando la comunidad de Discord de gran parte de mis suscriptores de YT además del servidor de Minecraft en el que participó parte de la comunidad usando el modpack creado por mí en exclusiva para este servidor (+70 mods, +1970 líneas de config) gestionando tickets, reportes, sugerencias tanto de Discord cómo del servidor de Minecraft. Acompañado de @LuisCaro (Administrador y desarrollador de Mods en MC), "Óscar Alarms" (YouTuber), "Elvosso" (Desarrollador Roblox) y "Pedro Batanero" (Soporte/Helper).
+💘 Durante 5 meses he estado gestionando la comunidad de Discord de gran parte de mis suscriptores de YT además del servidor de Minecraft en el que participó parte de la comunidad usando el modpack creado por mí en exclusiva para este servidor (+60 mods, +1970 líneas de config) gestionando tickets, reportes, sugerencias tanto de Discord cómo del servidor de Minecraft. Acompañado de @luiscaro6 (Administrador y desarrollador de Mods en MC), "Óscar Alarms" (YouTuber), "Elvosso" (Desarrollador Roblox) y "Pedro Batanero" (Soporte/Helper).
 
 
 # 👨‍🏫 Certificados obtenidos recientemente

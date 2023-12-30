@@ -51,7 +51,7 @@
 - 😎 **Discord**: @davidjimeneztv
 - 📨 **Email**: david@vericms.cf
 - 📶 **Instagram**: [@davidjj07](https://instagram.com/davidjj07)
-- 🗃️ ** Todas mis redes sociales**: [ver](https://linktr.ee/davidjimeneztv)
+- 🗃️ **Todas mis redes sociales**: [ver](https://linktr.ee/davidjimeneztv)
   
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjimeneztv&theme=blueberry)

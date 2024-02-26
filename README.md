@@ -12,7 +12,7 @@
   - Mi fascinación abarca el mundo de las alarmas, sitios web, servidores, y más.
 
 - 🛠 **Conocimientos técnicos**
-  - Desde los 11 años, he incursionado en HTML, PHP, CSS, JS, MySQL utilizando un servidor APACHE.
+  - Desde los 11 años, he trabajado con HTML, PHP, CSS, JS, MySQL utilizando un servidor APACHE.
   - He trabajado con varios hostings como Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, entre otros.
   
 - 💼 **Experiencia previa**
@@ -22,6 +22,7 @@
   - Creé la página "LearnApp", un sitio web para crear una comunidad de estudiantes de habla hispana utilizando las funciones y herramientas de WordPress.
   - Con WordPress, durante el 2020 creé un sitio web en WordPress para Alöelí.
   - Coordinador TI en D-Tech Group con la creación de un CRM a medida propio y su debido mantenimiento.
+  - Creación de bots en Discord de forma autodidacta y por entretenimiento con Python.
 
 - ⚙️ **Otras habilidades**
   - Administración de proyectos como "VeriCMS" en PHP, ASPX, React y Python, facilitando el control y supervisión de sistemas FAST de Verisure (descontinuado debido al apagado del 3G).

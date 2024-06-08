@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy David Jiménez
+¡Hola! 👋 Soy David Jiménez
 
 🙍‍♂️ Actualmente soy estudiante de SMR en Andalucía, España, mi objetivo: aprender y descubrir nuevas tecnologías cada día.
 
@@ -16,27 +16,29 @@
   - He trabajado con varios hostings como Firebase, Google Cloud Platform, OOOwebhosting, FreeWha, entre otros.
   
 - 💼 **Experiencia previa**
-  - Desarrollé un sistema de inventario y ventas en PHP para un negocio familiar.
-  - Durante dos años, trabajé en la mejora y soporte de "Evaluapp", un sistema educativo web en PHP y MySQL.
-  - En mis horas de ocio, desarrollé mi proyecto "Brocal DF06", un portal de gestión de redes LAN desde un frontend de CMS.
+  - Desarrollo y mantenimiento de Sistema de Inventario y Control de Ventas en PHP para un negocio familiar.
+  - Comencé en PHP con la programación de "Evaluapp", un sistema educativo web en PHP y MySQL para la gestión de aulas, asistencia y calificaciones de alumnos mediante la importación desde Séneca 
+    (descontinuado por las amplias posibilidades del actual sistema de la Junta de Andalucía, [Séneca](https://seneca.juntadeandalucia.es))
+  - En mis horas de ocio, desarrollé mi proyecto "DF06", un portal de gestión de redes LAN desde el frontend de un CMS.
   - Creé la página "LearnApp", un sitio web para crear una comunidad de estudiantes de habla hispana utilizando las funciones y herramientas de WordPress.
-  - Con WordPress, durante el 2020 creé un sitio web en WordPress para Alöelí.
-  - Coordinador TI en D-Tech Group con la creación de un CRM a medida propio y su debido mantenimiento.
-  - Creación de bots en Discord de forma autodidacta y por entretenimiento con Python.
-
-- ⚙️ **Otras habilidades**
-  - Administración de proyectos como "VeriCMS" en PHP, ASPX, React y Python, facilitando el control y supervisión de sistemas FAST de Verisure (descontinuado debido al apagado del 3G).
+  - Desarrollo de un sitio web WordPress para Alöelí y mantenimiento posterior del mismo.
+  - Coordinador TI en [D-Tech Group](https://dtech.tk/) con la creación de un CRM a medida propio y su debido mantenimiento.
+  - Asesor eventual en la implementación de tecnologías en [ADFilm](https://albertodelgadofilm.es)
+  - Creación y mantenimiento del sitio web de [PaKeterías](https://paketerias.com), una solución para el envío de paquetes y el acercamiento de las tecnologías al entorno rural.
+  - Desarrollo y programación del [Control de Jornada](https://david.myftp.org), aplicativo de gestión de las jornadas laborales de los trabajadores que emplea GPS y los datos del proveedor para determinar la ubicación de un empleado al inicio y fin de su jornada laboral. Además, con Multiorganización para aquellos trabajadores de jornada parcial que se encuentren trabajando en más de una empresa.
+  - Desarrollo y programación de la [Calculadora de Faltas para Séneca/Pasen](https://david.myftp.org/FaltasSéneca), un aplicativo que mediante la importación de las faltas de asistencia de alumnos, te contabiliza los tramos horarios del mismo, tramos ausentes y retrasos, así como reflejar si cumple con los requisitos de asistencia para la Evaluación Continua y Becas MEC y Beca 6000 de la Junta de Andalucía.
 
 - 🔮 **Futuro**
-  - Planeo desarrollar juegos con HTML5 de código abierto.
+  - En un futuro, trataré de crear juegos HTML5 de código abierto.
+  - De forma autodidacta, intento crear bots de Discord con Python.
 
 ## Experiencia como Moderador
 
-- 🥸 Creación, Administración y Moderación de servidores de Minecraft para YouTubers y Streamers (CyberGames, Comunidad VeriCMS, ...)
+- 🥸 Creación, Administración y Moderación de servidores de Minecraft (CyberGames, Comunidad VeriCMS, ...)
 - 💘 Administración y Moderación de la comunidad VeriCMS en Discord.
 - 🗣️ Consejero eventual en la moderación y gestión de D-Tech Group en Discord.
 
-## Certificaciones Recientes
+## Certificaciones
 
 - **Google Actívate**
   - Desarrollo Web I
@@ -48,11 +50,12 @@
 
 ### Contacto
 
-- 😎 **Discord**: @davidjimeneztv
-- 📨 **Email**: david@vericms.cf
+- 😎 **Discord**: [@davidjimeneztv](https://discord.com/users/523838001034428436)
+- 📨 **Email**: [david@vericms.cf](mailto:david@vericms.cf?subject=Contacto desde GitHub)
 - 📶 **Instagram**: [@davidjj07](https://instagram.com/davidjj07)
-- 💼 **LinkedIn**: [ver](https://www.linkedin.com/in/davidjimeneztv/)
-- 🗃️ **Todas mis redes sociales**: [ver](https://linktr.ee/davidjimeneztv)
-  
+- 💼 **LinkedIn**: [@davidjimeneztv](https://www.linkedin.com/in/davidjimeneztv/)
+- 🗃️ **Todas mis redes sociales**: [Ver todas](https://linktr.ee/davidjimeneztv)
+
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjimeneztv&theme=blueberry)
+
+![Perfil de GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjimeneztv&theme=blueberry)

@@ -59,3 +59,4 @@
 ---
 
 ![Perfil de GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjimeneztv&theme=blueberry)
+[![](https://visitcount.itsvg.in/api?id=davidjimeneztv&label=Visitas%20al%20perfil&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)

@@ -51,7 +51,7 @@
 ### Contacto
 
 - 😎 **Discord**: [@davidjimeneztv](https://discord.com/users/523838001034428436)
-- 📨 **Email**: [david@vericms.cf](mailto:david@vericms.cf?subject=Contacto desde GitHub)
+- 📨 **Email**: david@vericms.cf
 - 📶 **Instagram**: [@davidjj07](https://instagram.com/davidjj07)
 - 💼 **LinkedIn**: [@davidjimeneztv](https://www.linkedin.com/in/davidjimeneztv/)
 - 🗃️ **Todas mis redes sociales**: [Ver todas](https://linktr.ee/davidjimeneztv)

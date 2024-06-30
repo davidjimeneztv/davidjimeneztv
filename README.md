@@ -45,6 +45,8 @@
   - Ciberseguridad en el Teletrabajo
   - Digitalización de negocio con Google My Business y YouTube
   - Comercio Electrónico
+- **Andalucía Vuela**
+  - Creación de webs y blogs en WordPress
 
 ---
 

@@ -25,7 +25,7 @@
   - Coordinador TI en [D-Tech Group](https://dtech.tk/) con la creación de un CRM a medida propio y su debido mantenimiento.
   - Asesor eventual en la implementación de tecnologías en [ADFilm](https://albertodelgadofilm.es)
   - Creación y mantenimiento del sitio web de [PaKeterías](https://paketerias.com), una solución para el envío de paquetes y el acercamiento de las tecnologías al entorno rural.
-  - Desarrollo y programación del [Control de Jornada](https://david.myftp.org), aplicativo de gestión de las jornadas laborales de los trabajadores que emplea GPS y los datos del proveedor para determinar la ubicación de un empleado al inicio y fin de su jornada laboral. Además, con Multiorganización para aquellos trabajadores de jornada parcial que se encuentren trabajando en más de una empresa.
+  - Desarrollo y programación del [Control de Jornada](https://david.myftp.org/controljornada/), aplicativo de gestión de las jornadas laborales de los trabajadores que emplea GPS y los datos del proveedor para determinar la ubicación de un empleado al inicio y fin de su jornada laboral. Además, con Multiorganización para aquellos trabajadores de jornada parcial que se encuentren trabajando en más de una empresa.
   - Desarrollo y programación de la [Calculadora de Faltas para Séneca/Pasen](https://david.myftp.org/FaltasSéneca), un aplicativo que mediante la importación de las faltas de asistencia de alumnos, te contabiliza los tramos horarios del mismo, tramos ausentes y retrasos, así como reflejar si cumple con los requisitos de asistencia para la Evaluación Continua y Becas MEC y Beca 6000 de la Junta de Andalucía.
 
 - 🔮 **Futuro**

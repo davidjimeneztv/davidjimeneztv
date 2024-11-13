@@ -1,10 +1,9 @@
+<h2 align="center">¡Hola! Soy David 👋</h2>
+<p align="center">Actual estudiante de SMR en Andalucía <img src="https://cdn3.emoji.gg/emojis/4945-flag-esan.png" width="18"/></p>
 <p align="center">
     <!-- Contador de visitas -->
     <img src="https://visitcount.itsvg.in/api?id=davidjimeneztv&label=Visitas%20al%20perfil&color=1&pretty=true" />
 </p>
-
-<h2 align="center">¡Hola! Soy David 👋</h2>
-<p align="center">Actual estudiante de SMR en Andalucía <img src="https://cdn3.emoji.gg/emojis/4945-flag-esan.png" width="18"/></p>
 
 ## 📖 Sobre mí
 <p>Mis aficiones son <b>demasiado</b> variadas...</p>

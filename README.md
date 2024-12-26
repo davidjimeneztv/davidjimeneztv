@@ -11,7 +11,7 @@
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/>  Creador de Modpack's y Administrador de servidores en Minecraft
 * ⚔️ Moderador reputado
 * 💻 ¿Programador? ¿Desarrollador Full-Stack? No sé qué soy...
-* 🚨 ¿Experto en alarmas? Sí, pruebo alarmas y doy mi opinión, pero prefiero decir que subo de todo a YT.
+* 🚨 ¿Experto en alarmas? Puede, pruebo alarmas y doy mi opinión, pero prefiero decir que subo de todo a YT.
 * 🧑🏻‍🏫 Cuando me aburro hago cursos de certificación...
 
 <br/>

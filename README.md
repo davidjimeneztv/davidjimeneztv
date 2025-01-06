@@ -34,13 +34,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjimeneztv&theme=blueberry"/>
 
 <br/>
+<hr/>
 
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/523838001034428436"/>
 </p>
-
-<hr/>
-
 <br/>
 <h2 align="center">📌 Repositorios fijados </h2>
 <p align="center">¡Echa un vistazo a mis repositorios fijados!</p>

@@ -26,6 +26,8 @@
   * Creación de webs y blogs en WordPress
 * <b>Santander Open Academy</b>
   * Google Gemini: Inteligencia Artificial y Productividad
+* <b>OpenWebinars</b>
+  * Fundamentos de PHP
   
 <br/>
 
